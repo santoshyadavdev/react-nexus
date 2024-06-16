@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@react-nexus/nx-plugins": ["libs/nx-plugins/src/index.ts"]
+      "@react-nexus/nx-plugins": ["libs/nx-plugins/src/index.ts"],
     }
   },
   "exclude": ["node_modules", "tmp"]
