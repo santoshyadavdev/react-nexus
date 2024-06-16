@@ -1,0 +1,9 @@
+{
+  "name": "remix-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/remix-app",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project remix-app --web",
+  "targets": {}
+}
