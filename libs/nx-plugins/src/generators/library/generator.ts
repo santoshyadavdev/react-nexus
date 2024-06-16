@@ -20,6 +20,8 @@ export async function libraryGenerator(
       linter: Linter.EsLint,
       style: 'scss',
       component: true,
+      buildable: true,
+      bundler: 'vite'
     });
 
     const project = readProjectConfiguration(tree, options.name);
