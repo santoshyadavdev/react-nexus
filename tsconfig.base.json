@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@react-nexus/nx-plugins": ["libs/nx-plugins/src/index.ts"],
+      "@react-nexus/react-lib": ["libs/react-lib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
